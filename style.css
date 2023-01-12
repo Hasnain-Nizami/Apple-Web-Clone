@@ -1,0 +1,257 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+nav{
+    background-color:#424245;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    padding: 4px 4px;
+    
+}
+nav li{
+    padding: 10px 15px;
+    list-style: none;
+    font-size: 14px;
+}
+nav a{
+    text-decoration: none;
+    color: #c2bfbf;
+    font-size: 15px;
+}
+nav li a:hover{
+    color:#fff;
+}
+.iPhone{
+    background: url('./Assets/hero_iphone14__fjmsqstr1ceq_large.jpg');
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: center;  
+    background-size: 300%;
+    
+}
+
+.center1{
+    text-align: center;
+    padding-top: 70px;
+    
+}
+.Watch{
+    background: url('./Assets/hero_apple_watch_series_8__bjc1ok5mkjua_large.jpg');
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-position: center;  
+    background-size: 300%; 
+    border-top: 10px solid #fff;
+}
+.para{
+    color: #fff;
+    padding-top: 15px;
+    margin-bottom: 15px;
+
+}
+.blue{
+    color:#0d64b6;
+    text-decoration: none;
+    word-spacing: 0.5rem;
+    
+}
+.blue:hover{
+    color: #063e72;
+}
+.iphone14{
+    background: url(./Assets/promo_iphone14pro__4n4twj56fzmu_large.jpg);
+    width: 50%;
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    border-top: 10px solid #fff;
+    
+}
+
+
+.ipad{
+    background: url(./Assets/promo_ipad__fioegapg12qi_large.jpg);
+    width: 50%;
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    border-top: 10px solid #fff;
+}
+.flex{
+    display: flex;
+}
+.centertext{
+    text-align: center;
+    padding-top: 25px;
+}
+.parablack{
+    padding-top: 10px;
+    margin-bottom: 15px;
+}
+.watch{
+    background: url(./Assets/promo_apple_watch_ultra__gnsqulvdc4a6_large.jpg);
+    width: 50%;
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    
+    
+}
+.airpods{
+    background: url(./Assets/promo_airpods_pro_avail__gaxggskofx6y_large.jpg);
+    width: 50%;
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    
+}
+
+.mac{
+    background: url(./Assets/promo_macbookair__fywl7i82fueu_large.png);
+    width: 50%;
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    border-top: 5px solid #fff;
+}
+.image{
+    background: url(./Assets/);
+}
+.card{
+    background: url(./Assets/tile__cauwwcyyn9hy_large.jpg);
+    width: 50%;
+    height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    border-top: 5px solid #fff;
+}
+.flex1{
+    display: flex;
+    
+}
+.shop{
+    padding-left: 20px;
+    font-size: 13px;
+    margin-top: 5px;
+    
+}
+.shop td{
+    padding-bottom: 10px;
+    
+}
+.shop a{    
+    text-decoration: none;
+    color: rgb(94, 92, 92);
+    
+}
+.shop a:hover{
+    text-decoration-line: underline;
+}
+.services{
+    margin-left: 120px;
+    font-size: 13px;
+    margin-top: 5px;
+}
+.services td{
+    padding-bottom: 10px;
+}
+.services a{
+    text-decoration: none;
+    color: rgb(94, 92, 92);
+}
+.services a:hover{
+    text-decoration-line: underline;
+}
+.store{
+    padding-left: 120px;
+    font-size: 13px;
+    margin-top: 5px;
+    
+}
+.store td{
+    padding-bottom: 10px;
+    
+}
+.store a{
+    text-decoration: none;
+    color: rgb(94, 92, 92);
+}
+.store a:hover{
+    text-decoration-line: underline;
+}
+.business{
+    margin-left: 80px;
+    margin-top: 5px;
+    font-size: 13px;
+    
+}
+.business td{
+    padding-bottom: 10px;
+}
+
+.business a{
+    text-decoration: none;
+    color: rgb(94, 92, 92);
+}
+.business a:hover{
+    text-decoration-line: underline;
+}
+.par{
+    font-size: 13px;
+    padding-bottom: 5px;
+    color: rgb(94, 92, 92);
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+.last{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.last a{
+    color: #1b6ab4;
+    text-decoration: none;
+}
+.last a:hover{
+    color: #093d6e;
+}
+.pappa{
+    background-color: #e7e7eb;
+}
+.line{
+    border: 1px solid #bdbdc2;;
+    
+}
+.flex2{
+    display: flex;
+    font-size: 13px;
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    gap: 30px;
+    color: rgb(102, 100, 100);
+    
+}
+.flex2 a{
+    text-decoration: none;
+    color: rgb(65, 64, 64);    
+}
+.flex2 a:hover{
+    text-decoration-line: underline;
+}
+.word a{
+    padding-left: 110px;
+}
+  
+
